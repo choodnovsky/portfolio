@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 .DS_Store
-/Data
+/data
 /venv
 .idea/
 requirements.txt
